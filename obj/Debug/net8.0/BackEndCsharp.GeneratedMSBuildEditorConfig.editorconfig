@@ -17,3 +17,31 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\bryan\source\projects\BackEndCsharp
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/bryan/source/projects/BackEndCsharp/FrontBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = RnJvbnRCbGF6b3JcQXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bryan/source/projects/BackEndCsharp/FrontBlazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = RnJvbnRCbGF6b3JcUGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bryan/source/projects/BackEndCsharp/FrontBlazor/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = RnJvbnRCbGF6b3JcUGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bryan/source/projects/BackEndCsharp/FrontBlazor/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = RnJvbnRCbGF6b3JcUGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bryan/source/projects/BackEndCsharp/FrontBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = RnJvbnRCbGF6b3JcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bryan/source/projects/BackEndCsharp/FrontBlazor/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = RnJvbnRCbGF6b3JcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-l36r9kt07u
+
+[C:/Users/bryan/source/projects/BackEndCsharp/FrontBlazor/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = RnJvbnRCbGF6b3JcTGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ezloajbwu1
