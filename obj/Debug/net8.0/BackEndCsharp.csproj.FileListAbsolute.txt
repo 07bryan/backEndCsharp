@@ -31,3 +31,4 @@ C:\Users\bryan\source\projects\BackEndCsharp\obj\Debug\net8.0\refint\BackEndCsha
 C:\Users\bryan\source\projects\BackEndCsharp\obj\Debug\net8.0\BackEndCsharp.pdb
 C:\Users\bryan\source\projects\BackEndCsharp\obj\Debug\net8.0\BackEndCsharp.genruntimeconfig.cache
 C:\Users\bryan\source\projects\BackEndCsharp\obj\Debug\net8.0\ref\BackEndCsharp.dll
+C:\Users\bryan\source\projects\BackEndCsharp\obj\Debug\net8.0\BackEndCsharp.sourcelink.json
